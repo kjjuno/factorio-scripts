@@ -31,3 +31,4 @@ player.insert{name="stone-wall", count = 5000}
 player.insert{name="gun-turret", count = 500}
 player.insert{name="assembling-machine-1", count = 100}
 player.insert{name="electric-mining-drill", count = 100}
+game.player.force.technologies["worker-robots-speed-1"].researched
