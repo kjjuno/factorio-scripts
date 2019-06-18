@@ -27,3 +27,7 @@ player.insert{name="inserter", count = 100}
 player.insert{name="small-lamp", count = 50}
 player.insert{name="pipe", count = 200}
 player.insert{name="pipe-to-ground", count = 100}
+player.insert{name="stone-wall", count = 5000}
+player.insert{name="gun-turret", count = 500}
+player.insert{name="assembling-machine-1", count = 100}
+player.insert{name="electric-mining-drill", count = 100}
